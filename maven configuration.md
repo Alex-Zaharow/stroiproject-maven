@@ -18,11 +18,11 @@ http://maven.apache.org/download.cgi?Preferred=ftp://mirror.reverse.net/pub/apac
 	
 Для windows:
 	
-![](maven configuration/pasted_image.png)
+![](maven_configuration/pasted_image.png)
 
 Распаковать его в каталог:
 
-![](maven configuration/pasted_image001.png)
+![](maven_configuration/pasted_image001.png)
 
 F:\install\apache\maven\3.2.5\maven
 	
@@ -39,10 +39,10 @@ M2_REPO (нужна для eclipse)
 
 И PATH:
 
-![](maven configuration/pasted_image002.png)
+![](maven_configuration/pasted_image002.png)
 
 Добавить настройки в конфигурационный файл maven:
-![](maven configuration/pasted_image003.png)
+![](maven_configuration/pasted_image003.png)
 Ссылка на локальный репозиторий (по умолчанию {Профиль пользователя}\.m2)
 
 ```xml
